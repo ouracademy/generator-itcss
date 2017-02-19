@@ -10,6 +10,12 @@ First, install [Yeoman](http://yeoman.io) and generator-itcss using [npm](https:
 npm install -g yo
 ```
 
+Then install your generator-itcss:
+
+```bash
+npm install -g generator-itcss
+```
+
 Then generate your new project:
 
 ```bash
