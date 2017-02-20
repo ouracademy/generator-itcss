@@ -1,6 +1,6 @@
 {
   "name": "generator-itcss",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A Yeoman generator for setup a folder structure for ITCSS conventions",
   "homepage": "https://github.com/ouracademy/generator-itcss.git",
   "author": {
